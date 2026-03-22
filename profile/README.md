@@ -14,4 +14,4 @@
 <!-- [![](https://dcbadge.limes.#FB7299/api/server/EMJqcQCCpW)](https://discord.gg/EMJqcQCCpW) -->
 [![](https://img.shields.io/badge/Bilibili-%E8%B4%9D%E5%A3%B3%E7%B4%A2%E6%80%9D%E7%A7%91%E6%8A%80-white?style=for-the-badge&color=FB7299&logo=bilibili&logoColor=FB7299)](https://space.bilibili.com/3632313615256374)
 [![](https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E8%B4%9D%E5%A3%B3%E7%B4%A2%E6%80%9D%E7%A7%91%E6%8A%80-white?style=for-the-badge&color=06cb64E&logo=wechat&logoColor=06cb64)](https://mp.weixin.qq.com/s/JEQ_mOdutMnV17chkp6JZQ)
-
+[![](https://img.shields.io/badge/QQ-🐚_LINUX_CAFÉ_🐧-white?style=for-the-badge&color=76bad9&logo=qq&logoColor=76bad9)](https://qm.qq.com/q/bhJtg9qyCA)
